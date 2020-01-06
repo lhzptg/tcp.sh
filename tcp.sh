@@ -330,7 +330,7 @@ Update_Shell() {
 start_menu() {
   clear
   echo && echo -e " TCP加速 一键安装管理脚本 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
-  -- 就是爱生活 | 94ish.me --
+  -- https://github.com/lhzptg --
   
  ${Green_font_prefix}0.${Font_color_suffix} 升级脚本
 ————————————内核管理————————————
